@@ -7,7 +7,7 @@
 </h2>
 
 <div align="center">
- <img src="#" alt="GIF"/>
+ <img src="https://i.gifer.com/J5A.gif" alt="GIF"/>
 </div>
 
 <!--
