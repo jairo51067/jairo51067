@@ -1,11 +1,13 @@
 <h1 align="center">Hola👋<img src="#" width="28px"/>Yo Soy Jairo A. Cárdenas M.</h1>
+
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="#" alt="Profile Views" style="height:21px;">
   Developer Front End
   <a href="#">
     <img src="#" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
+
 <div align="center">
  <img alt="GIF" src="#"/>
 </div>
