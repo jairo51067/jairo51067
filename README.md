@@ -18,7 +18,7 @@ Soy un profesional universitario, apasionado por el Desarrollo Web y la Programa
 
 <h2 align="center">
 <a herf="https://[your-link])">
-  <img scr=" https://img.shields.io/badge/just%20the%20message-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white" width="100%" height="auto"/>
+  <img scr=" https://img.shields.io/badge/just%20the%20message-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white" style="height:"22px"/>
 </a>
 </h2>
 
