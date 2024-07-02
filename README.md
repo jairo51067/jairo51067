@@ -8,8 +8,7 @@
 
 <div align="center">
  <!-- <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFsaGhycXp3eWNudXgyZGVucmZ5OWtsM2hwMXVya3pueHMyNGFwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O562uxzf7gxbQ0WxXD/giphy.webp" width="100%" height="auto";> -->
-<img src="![github-header-image](https://github.com/jairo51067/jairo51067/assets/109292981/d25f51db-39e0-417b-8d18-e7c43e2fced7)
-">
+<img src="https://github.com/jairo51067/jairo51067/assets/109292981/d25f51db-39e0-417b-8d18-e7c43e2fced7"/>
 </div>
 
 <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
