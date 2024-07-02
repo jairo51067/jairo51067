@@ -7,8 +7,7 @@
 </h2>
 
 <div align="center">
- <img src="![1_proyecto](https://github.com/jairo51067/jairo51067/assets/109292981/7e76bdaa-c38e-43a9-b512-7854015c33b4)
-" alt="GIF"/>
+  <iframe src="https://giphy.com/embed/xUOxeWRB9sJ972dp4c" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xUOxeWRB9sJ972dp4c">via GIPHY</a></p>
 </div>
 
 <!--
