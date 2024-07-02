@@ -7,7 +7,8 @@
 </h2>
 
 <div align="center">
- <img src="https://i.gifer.com/J5A.gif" alt="GIF"/>
+ <img src="![1_proyecto](https://github.com/jairo51067/jairo51067/assets/109292981/7e76bdaa-c38e-43a9-b512-7854015c33b4)
+" alt="GIF"/>
 </div>
 
 <!--
