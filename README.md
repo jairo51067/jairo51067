@@ -14,6 +14,27 @@
 
 Soy un profesional universitario, apasionado por el Desarrollo Web y la Programación, mi mente es un hervidero de ideas creativas que las transformo en proyectos, me inspira ser parte de equipos triunfadores y me motiva resolver problemas juntos. En mi tiempo libre, me dedico a la electronica y hacer ejercicios. Me apasiona leer y aprender continuamente y disfruto mucho del buen descanso. No soy perfecto, pero sí soy auténtico, soy honesto, transparente y siempre estoy dispuesto a aportar todo mi conocimiento, aprender de los demás y crecer constantemente.
 
+<details>
+ <summary>
+    <h2> 
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/about.png" width="37" /> 
+    Resume
+    </h2>
+</summary>
+
+ <details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
+ </details>
+
+ <details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+  - **[Your Role] ** at [Company] | [Duration]
+    - [Work Description]
+ </details>
+</details>
+
 <details style="width: 100%; padding: 20px; box-sizing: border-box;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 18px;">
     <h2 style="display: inline-block; margin: 0;"> 
