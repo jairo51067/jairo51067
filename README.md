@@ -18,7 +18,7 @@ Soy un profesional universitario, apasionado por el Desarrollo Web y la Programa
 
 
 <details style="width: 100%; padding: 20px; box-sizing: border-box;">
-  <summary><h2> <img align="center" src="https://github.com/jairo51067/jairo51067/assets/109292981/21a6e934-5891-4466-b217-c1a7a1e1cc11" width="37"/> Estadisticas </h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/jairo51067/jairo51067/assets/109292981/21a6e934-5891-4466-b217-c1a7a1e1cc11" width="33"/> Estadisticas </h2></summary>
   <div style="width: 100%; padding: 20px; box-sizing: border-box; text-align: left;">
     <!--<img src="https://github-readme-stats.vercel.app/api?username=jairo51067&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" style="width: 75%; height: auto; margin-bottom: 20px;" />-->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jairo51067&theme=tokyonight&hide_border=false" style="width: 100%; height: auto; margin-bottom: 20px;" />
@@ -28,11 +28,11 @@ Soy un profesional universitario, apasionado por el Desarrollo Web y la Programa
 </details>
 
 <details>
-<summary><h2> <img align="center" src="https://github.com/jairo51067/jairo51067/assets/109292981/21a6e934-5891-4466-b217-c1a7a1e1cc11" width="37"/> Contactame </h2></summary>
+<summary><h2> <img align="center" src="https://github.com/jairo51067/jairo51067/assets/109292981/74fc619e-681f-4010-891c-f639d252d019" width="33"/> Contactame </h2></summary>
   <p>
     <i>puedes enviame un e-mail via</i>
     <a href="mailto:jairocardenas05@gmail.com">
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+      <img align="center" src="https://github.com/jairo51067/jairo51067/assets/109292981/30a8f1c6-efc4-48b2-85cf-f4bc57f93ba6" width="33"/>
     </a>
   </p>
 </details>
