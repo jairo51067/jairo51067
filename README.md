@@ -1,5 +1,3 @@
-"https://github.com/jairo51067/jairo51067/blob/main/icons/Contact.gif"
-
 <h1 align="center">Hola👋<img src="https://github.com/YourUsername/jairo51067/blob/main/icons/Hi.gif" width="33px"/>Yo Soy Jairo A. Cárdenas M.</h1>
 
 <h2 align="center">Developer Front End --  
