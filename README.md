@@ -21,6 +21,7 @@ Soy un profesional universitario, apasionado por el Desarrollo Web y la Programa
    <a href="mailto:jairocardenas05@gmail.com">📩 Me puedes contactar via e-mail</a>
 </p>
 
+<img src="https://cdn-icons-png.flaticon.com/128/3826/3826825.png"/>
 
 
 <details style="width: 100%; padding: 20px; box-sizing: border-box;">
