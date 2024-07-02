@@ -16,10 +16,10 @@ Soy un profesional universitario, apasionado por el Desarrollo Web y la Programa
 
 
 <details>
-  <summary><h2> <img align="end" src="https://cdn.icon-icons.com/icons2/1042/PNG/512/Contact_Icon_icon-icons.com_76434.png" width="33"/>  Contactame </h2></summary>
-  <p>  
-    <a href="mailto:jairocardenas05@gmail.com">📩 Me puedes contactar via e-mail</a>
-  </p>
+<img align="end" src="https://cdn.icon-icons.com/icons2/1042/PNG/512/Contact_Icon_icon-icons.com_76434.png" width="33"/>  Contactame   
+<p>  
+   <a href="mailto:jairocardenas05@gmail.com">📩 Me puedes contactar via e-mail</a>
+</p>
 </details>
 
 
