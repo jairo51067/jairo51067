@@ -15,8 +15,7 @@
 
 Soy un profesional universitario, apasionado por el Desarrollo Web y la Programación, mi mente es un hervidero de ideas creativas que las transformo en proyectos, me inspira ser parte de equipos triunfadores y me motiva resolver problemas juntos. En mi tiempo libre, me dedico a la electronica y hacer ejercicios. Me apasiona leer y aprender continuamente y disfruto mucho del buen descanso. No soy perfecto, pero sí soy auténtico, soy honesto, transparente y siempre estoy dispuesto a aportar todo mi conocimiento, aprender de los demás y crecer constantemente.
 
-
-<img scr=" https://img.shields.io/badge/just%20the%20message-8A2BE2" width="100%" height="auto"/>
+<a herf="#"><img scr=" https://img.shields.io/badge/just%20the%20message-8A2BE2" width="100%" height="auto"/></a>
 
 
 <details style="width: 100%; padding: 20px; box-sizing: border-box;">
