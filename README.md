@@ -28,7 +28,7 @@ Soy un profesional universitario, apasionado por el Desarrollo Web y la Programa
 </details>
 
 <details>
-<summary><h2> <img align="center" src="https://iconos8.es/icon/f35ivmW8y15E/combo-chart" width="37"/> Contactame </h2></summary>
+<summary><h2> <img align="center" src="https://github.com/jairo51067/jairo51067/assets/109292981/21a6e934-5891-4466-b217-c1a7a1e1cc11" width="37"/> Contactame </h2></summary>
   <p>
     <i>puedes enviame un e-mail via</i>
     <a href="mailto:jairocardenas05@gmail.com">
