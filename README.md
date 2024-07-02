@@ -17,20 +17,20 @@ Soy un profesional universitario, apasionado por el Desarrollo Web y la Programa
 
 <details>
  <summary>
-    <h2> 🗂
-      <img align="center" src="https://github.com/[jairo51067]/[jairo51067]/blob/main/icons/about.png" width="37" /> 
+    <h2> 
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/about.png" width="37" /> 
     Resume
     </h2>
 </summary>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/[jairo51067]/[jairo51067]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-[- I.U.T - ]-1877F2?style=for-the-badge"></span>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
  </details>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/jairo51067/jairo51067/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
   - **[Your Role] ** at [Company] | [Duration]
     - [Work Description]
  </details>
