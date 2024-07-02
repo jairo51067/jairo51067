@@ -7,7 +7,7 @@
 </h2>
 
 <div align="center">
- <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFsaGhycXp3eWNudXgyZGVucmZ5OWtsM2hwMXVya3pueHMyNGFwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O562uxzf7gxbQ0WxXD/giphy.webp"/>
+ <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFsaGhycXp3eWNudXgyZGVucmZ5OWtsM2hwMXVya3pueHMyNGFwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O562uxzf7gxbQ0WxXD/giphy.webp" width="100%" height="100%";>
 </div>
 <div style="width:100%;height:0;padding-bottom:82%;position:relative;"><iframe src="https://giphy.com/embed/O562uxzf7gxbQ0WxXD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/paginasweb-proyectatepublicidad-proyectate-O562uxzf7gxbQ0WxXD">via GIPHY</a></p>
 <!--
