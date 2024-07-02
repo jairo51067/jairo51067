@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋<img src="https://github.com/YourUsername/jairo51067/blob/main/icons/Hi.gif" width="33px"/>Bienvenido a mi Repositorio.</h1>
+<h1 align="center">Hola👋Bienvenido a mi Repositorio.</h1>
 <h2 align="center">  
   <a href="https://[your-portfolio-link]">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:"22px"/>
