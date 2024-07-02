@@ -18,7 +18,7 @@ Soy un profesional universitario, apasionado por el Desarrollo Web y la Programa
 <details>
  <summary>
     <h2> 🗂
-      <img align="center" src="https://github.com/jairo51067/jairo51067/blob/main/icons/about.png" width="37" /> 
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/about.png" width="37" /> 
     Resume
     </h2>
 </summary>
