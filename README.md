@@ -18,7 +18,7 @@ Soy un profesional universitario, apasionado por el Desarrollo Web y la Programa
 
 
 <details style="width: 100%; padding: 20px; box-sizing: border-box;">
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Estadisticas </h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/jairo51067/jairo51067/assets/109292981/21a6e934-5891-4466-b217-c1a7a1e1cc11" width="37"/> Estadisticas </h2></summary>
   <div style="width: 100%; padding: 20px; box-sizing: border-box; text-align: left;">
     <!--<img src="https://github-readme-stats.vercel.app/api?username=jairo51067&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" style="width: 75%; height: auto; margin-bottom: 20px;" />-->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jairo51067&theme=tokyonight&hide_border=false" style="width: 100%; height: auto; margin-bottom: 20px;" />
