@@ -28,7 +28,7 @@ Soy un profesional universitario, apasionado por el Desarrollo Web y la Programa
 </details>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/> Contactame </h2></summary>
+<summary><h2> <img align="center" src="https://github.com/[jairo51067]/[jairo51067]/blob/main/icons/Contact.gif" width="37"/> Contactame </h2></summary>
   <p>
     <i>puedes enviame un e-mail...</i>
     <a href="mailto:jairocardenas05@gmail.com">
