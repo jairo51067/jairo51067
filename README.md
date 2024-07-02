@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋<img src="https://github.com/YourUsername/jairo51067/blob/main/icons/Hi.gif" width="28px"/>Yo Soy Jairo A. Cárdenas M.</h1>
+<h1 align="center">Hola👋<img src="https://github.com/YourUsername/jairo51067/blob/main/icons/Hi.gif" width="33px"/>Yo Soy Jairo A. Cárdenas M.</h1>
 
 <h2 align="center">Developer Front End --  
   <a href="https://[your-portfolio-link]">
@@ -9,7 +9,9 @@
 <div align="center">
  <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFsaGhycXp3eWNudXgyZGVucmZ5OWtsM2hwMXVya3pueHMyNGFwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O562uxzf7gxbQ0WxXD/giphy.webp" width="100%" height="100%";>
 </div>
-<div style="width:100%;height:0;padding-bottom:82%;position:relative;"><iframe src="https://giphy.com/embed/O562uxzf7gxbQ0WxXD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/paginasweb-proyectatepublicidad-proyectate-O562uxzf7gxbQ0WxXD">via GIPHY</a></p>
+
+Soy un profesional universitario, apasionado por el Desarrollo Web y la Programación, mi mente es un hervidero de ideas creativas que las transformo en proyectos, me inspira ser parte de equipos triunfadores y me motiva resolver problemas juntos. En mi tiempo libre, me dedico a la electronica y hacer ejercicios. Me apasiona leer y aprender continuamente y disfruto mucho del buen descanso. No soy perfecto, pero sí soy auténtico, soy honesto, transparente y siempre estoy dispuesto a aportar todo mi conocimiento, aprender de los demás y crecer constantemente.
+
 <!--
 **jairo51067/jairo51067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
