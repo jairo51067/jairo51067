@@ -6,6 +6,8 @@
   </a>
 </h2>
 
+<hr>
+
 <div align="center">
  <!-- <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFsaGhycXp3eWNudXgyZGVucmZ5OWtsM2hwMXVya3pueHMyNGFwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O562uxzf7gxbQ0WxXD/giphy.webp" width="100%" height="auto";> -->
 <img src="https://github.com/jairo51067/jairo51067/assets/109292981/d25f51db-39e0-417b-8d18-e7c43e2fced7" width="100%" height="auto";/>
