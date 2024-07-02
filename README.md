@@ -26,12 +26,11 @@ Soy un profesional universitario, apasionado por el Desarrollo Web y la Programa
 <details style="width: 100%; padding: 20px; box-sizing: border-box;">
   <summary style="cursor: pointer; font-weight: bold; font-size: 18px;">
     <h2 style="display: inline-block; margin: 0;"> 
-      <img align="center" src="https://github.com/jairo51067/jairo51067/blob/main/icons/stats.gif" width="32"/> 
       Stats
     </h2>
   </summary>
   <div style="width: 100%; padding: 20px; box-sizing: border-box; text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jairo51067&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" style="width: 50%; height: auto; margin-bottom: 20px;" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=jairo51067&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" style="width: 75%; height: auto; margin-bottom: 20px;" /> 
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jairo51067&theme=tokyonight&hide_border=false" style="width: 100%; height: auto; margin-bottom: 20px;" /> -->
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairo51067&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="width: 100%; height: auto; margin-bottom: 20px;" /> --> 
     <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=jairo51067&theme=tokyo-night" style="width: 100%; height: auto;" /> -->
