@@ -10,7 +10,7 @@
  <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFsaGhycXp3eWNudXgyZGVucmZ5OWtsM2hwMXVya3pueHMyNGFwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O562uxzf7gxbQ0WxXD/giphy.webp" width="100%" height="auto";>
 </div>
 
-<img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
 Soy un profesional universitario, apasionado por el Desarrollo Web y la Programación, mi mente es un hervidero de ideas creativas que las transformo en proyectos, me inspira ser parte de equipos triunfadores y me motiva resolver problemas juntos. En mi tiempo libre, me dedico a la electronica y hacer ejercicios. Me apasiona leer y aprender continuamente y disfruto mucho del buen descanso. No soy perfecto, pero sí soy auténtico, soy honesto, transparente y siempre estoy dispuesto a aportar todo mi conocimiento, aprender de los demás y crecer constantemente.
 
