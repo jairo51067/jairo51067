@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋Bienvenido a mi Repositorio.</h1>
+<h1 align="center">Hola 👋 Bienvenido.</h1>
 <h2 align="center">  
   <a href="https://[your-portfolio-link]">
     <img src="https://img.shields.io/badge/Portafolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:"22px"/>
