@@ -30,7 +30,7 @@ Soy un profesional universitario, apasionado por el Desarrollo Web y la Programa
 <details>
 <summary><h2> <img align="center" src="https://github.com/jairo51067/jairo51067/assets/109292981/74fc619e-681f-4010-891c-f639d252d019" width="33"/> Contactame </h2></summary>
   <p>
-    <h2>puedes enviarme un e-mail via  </h2>
+    <h4>puedes enviarme un e-mail via</h4>
     <a href="mailto:jairocardenas05@gmail.com">
       <img align="center" src="https://github.com/jairo51067/jairo51067/assets/109292981/30a8f1c6-efc4-48b2-85cf-f4bc57f93ba6" width="33"/>
     </a>
