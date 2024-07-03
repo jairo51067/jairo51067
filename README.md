@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋Bienvenido a mi Repositorio.</h1>
 <h2 align="center">  
   <a href="https://[your-portfolio-link]">
-    <img src="https://img.shields.io/badge/Mi Portafolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:"22px"/>
+    <img src="https://img.shields.io/badge/Portafolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:"22px"/>
   </a>
 </h2>
 
@@ -30,7 +30,7 @@ Soy un profesional universitario, apasionado por el Desarrollo Web y la Programa
 <details>
 <summary><h2> <img align="center" src="https://github.com/jairo51067/jairo51067/assets/109292981/74fc619e-681f-4010-891c-f639d252d019" width="33"/> Contactame </h2></summary>
   <p>
-    <i>puedes enviame un e-mail via</i>
+    <h2>puedes enviarme un e-mail via  </h2>
     <a href="mailto:jairocardenas05@gmail.com">
       <img align="center" src="https://github.com/jairo51067/jairo51067/assets/109292981/30a8f1c6-efc4-48b2-85cf-f4bc57f93ba6" width="33"/>
     </a>
