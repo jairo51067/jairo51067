@@ -1,42 +1,32 @@
-<h1 align="center">¡Hola! 👋 Bienvenido a mi perfil de GitHub</h1>
-
-<h2 align="center">  
-  <a href="https://jairo51067.github.io/portafolio-JC/" target="_blank">
-    <img src="https://img.shields.io/badge/Mi%20Portafolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio" />
-  </a>
-</h2>
+<h1 align="center">¡Hola!  Soy Jairo Cárdenas</h1>
+<h2 align="center">Desarrollador Frontend | Apasionado por crear experiencias digitales increíbles</h2>
 
 <div align="center">
-  <img src="https://github.com/jairo51067/jairo51067/assets/109292981/091d63c4-eeda-4168-942d-c92dea831d61" alt="Presentación" width="100%" height="auto"/>
+  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" alt="Animación de código">
 </div>
 
----
+### ⚡ Sobre mí
+Soy un desarrollador frontend con experiencia en React.js, HTML, CSS y JavaScript. Me encanta transformar ideas en realidad y crear interfaces de usuario intuitivas y atractivas.
 
-## ✨ Sobre mí
+**Proyectos destacados:**
 
-¡Hola! Soy **Jairo Cárdenas**, un desarrollador **frontend apasionado por la tecnología y el aprendizaje continuo**. Transformo ideas creativas en proyectos impactantes.  
-Me inspiran los equipos colaborativos, y encuentro motivación en resolver problemas y superar desafíos.  
-En mi tiempo libre, me dedico a explorar la electrónica, ejercitarme, leer y, por supuesto, ¡seguir aprendiendo! 🚀
+* **MiPortafolio:** Un portafolio personal creado con React.js y Gatsby, donde muestro mis habilidades y proyectos.
+* **Aplicación de clima:** Una aplicación web que muestra el clima actual y el pronóstico de 5 días utilizando la API de OpenWeatherMap.
 
-### 🔑 Habilidades destacadas:
-- **Desarrollo Frontend:** React.js, HTML, CSS, JavaScript.
-- **Herramientas:** Git, Figma, Visual Studio Code.
-- **Metodologías:** Diseño responsive, UX/UI básico, optimización de interfaces.
+### ️ Habilidades
+* **Frontend:** React.js, Angular, Vue.js, HTML, CSS, JavaScript
+* **Herramientas:** Git, npm, webpack, Figma, Adobe XD
+* **Metodologías:** Agile, Scrum, Design Thinking
 
-📍 Actualmente, busco colaborar en proyectos desafiantes que me permitan seguir creciendo como desarrollador y aportar valor a los equipos.
+###  Conéctate conmigo
+* **Email:** jairocardenas05@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/jairo-cardenas/
+* **Portafolio:** https://jairo51067.github.io/portafolio-JC/
 
----
+**¡Contrátame!** Estoy buscando nuevas oportunidades para trabajar en proyectos desafiantes y colaborar con equipos talentosos.
 
-## 📬 ¡Conéctate conmigo!
-
-Si quieres conversar sobre desarrollo, tecnología o colaborar en proyectos, no dudes en contactarme:
-
-- 📧 Email: [jairocardenas05@gmail.com](mailto:jairo.cardenas.dev@gmail.com)  
-- 🌐 Portafolio: [jairo51067.github.io/portafolio-JC](https://jairo51067.github.io/portafolio-JC/)  
-- 💼 LinkedIn: *()*
-
----
-
-¡Gracias por visitar mi perfil! 🌟  
-No dudes en explorar mis repositorios y dejar tu feedback.  
-¡Estoy siempre abierto a aprender y colaborar! 💻✨
+<div align="center">
+  <a href="mailto:jairocardenas05@gmail.com">
+    <img src="https://img.shields.io/badge/Contáctame-brightgreen" alt="Contrátame">
+  </a>
+</div>
