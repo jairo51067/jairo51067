@@ -1,55 +1,59 @@
-<h1 align="center">Hola 👋 Bienvenido.</h1>
+<h1 align="center">¡Hola! 👋 Bienvenido a mi perfil de GitHub</h1>
+
 <h2 align="center">  
-<!--     <a href="[https://[your-portfolio-link]](https://jairo51067.github.io/portafolio-JC/)"> -->
-  <a href="https://jairo51067.github.io/portafolio-JC/">
-    <img src="https://img.shields.io/badge/Portafolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:"22px"/>
+  <a href="https://jairo51067.github.io/portafolio-JC/" target="_blank">
+    <img src="https://img.shields.io/badge/Mi%20Portafolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio" />
   </a>
 </h2>
 
 <div align="center">
- <!-- <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFsaGhycXp3eWNudXgyZGVucmZ5OWtsM2hwMXVya3pueHMyNGFwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O562uxzf7gxbQ0WxXD/giphy.webp" width="100%" height="auto";> -->
-<img src="https://github.com/jairo51067/jairo51067/assets/109292981/091d63c4-eeda-4168-942d-c92dea831d61" alt="Presentacion" width="100%" height="auto"/>
+  <img src="https://github.com/jairo51067/jairo51067/assets/109292981/091d63c4-eeda-4168-942d-c92dea831d61" alt="Presentación" width="100%" height="auto"/>
 </div>
-<hr>
 
-<img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+---
 
-Soy un profesional universitario, apasionado por el Desarrollo Web y la Programación, mi mente es un hervidero de ideas creativas que las transformo en proyectos, me inspira ser parte de equipos triunfadores y me motiva resolver problemas juntos. En mi tiempo libre, me dedico a la electronica y hacer ejercicios. Me apasiona leer y aprender continuamente y disfruto mucho del buen descanso. No soy perfecto, pero sí soy auténtico, soy honesto, transparente y siempre estoy dispuesto a aportar todo mi conocimiento, aprender de los demás y crecer constantemente.
+## ✨ Sobre mí
 
+¡Hola! Soy **Jairo Cárdenas**, un desarrollador **frontend apasionado por la tecnología y el aprendizaje continuo**. Transformo ideas creativas en proyectos impactantes.  
+Me inspiran los equipos colaborativos, y encuentro motivación en resolver problemas y superar desafíos.  
+En mi tiempo libre, me dedico a explorar la electrónica, ejercitarme, leer y, por supuesto, ¡seguir aprendiendo! 🚀
 
+### 🔑 Habilidades destacadas:
+- **Desarrollo Frontend:** React.js, HTML, CSS, JavaScript.
+- **Herramientas:** Git, Figma, Visual Studio Code.
+- **Metodologías:** Diseño responsive, UX/UI básico, optimización de interfaces.
 
-<details style="width: 100%; padding: 20px; box-sizing: border-box;">
-  <summary><h2> <img align="center" src="https://github.com/jairo51067/jairo51067/assets/109292981/21a6e934-5891-4466-b217-c1a7a1e1cc11" width="33"/> Estadisticas </h2></summary>
-  <div style="width: 100%; padding: 20px; box-sizing: border-box; text-align: left;">
-    <!--<img src="https://github-readme-stats.vercel.app/api?username=jairo51067&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" style="width: 75%; height: auto; margin-bottom: 20px;" />-->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jairo51067&theme=tokyonight&hide_border=false" style="width: 100%; height: auto; margin-bottom: 20px;" />
-    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairo51067&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="width: 100%; height: auto; margin-bottom: 20px;" /> 
-    <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=jairo51067&theme=tokyo-night" style="width: 100%; height: auto;" />-->
-  </div>
-</details>
+📍 Actualmente, busco colaborar en proyectos desafiantes que me permitan seguir creciendo como desarrollador y aportar valor a los equipos.
+
+---
+
+## 📊 Estadísticas
 
 <details>
-<summary><h2> <img align="center" src="https://github.com/jairo51067/jairo51067/assets/109292981/f3be20b7-6c11-4b82-a3b5-c5fbdb7ffde4" width="33"/> Contactame </h2></summary>
-  <p>
-    <h4>puedes enviarme un e-mail via</h4>
-    <a href="mailto:jairocardenas05@gmail.com">
-      <img align="center" src="https://github.com/jairo51067/jairo51067/assets/109292981/30a8f1c6-efc4-48b2-85cf-f4bc57f93ba6" width="33"/>
-    </a>
+  <summary><h3>📈 Ver mi actividad en GitHub</h3></summary>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jairo51067&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" style="width: 90%;"/>
   </p>
 </details>
 
+---
 
-<!--
-**jairo51067/jairo51067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📬 ¡Conéctate conmigo!
 
-Here are some ideas to get you started:
+Si quieres conversar sobre desarrollo, tecnología o colaborar en proyectos, no dudes en contactarme:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: [jairocardenas05@gmail.com](mailto:jairocardenas05@gmail.com)  
+- 🌐 Portafolio: [jairo51067.github.io/portafolio-JC](https://jairo51067.github.io/portafolio-JC/)  
+- 💼 LinkedIn: *(agrega el enlace si tienes uno)*
+
+<div align="center">
+  <a href="mailto:jairocardenas05@gmail.com" target="_blank">
+    <img src="https://github.com/jairo51067/jairo51067/assets/109292981/30a8f1c6-efc4-48b2-85cf-f4bc57f93ba6" alt="Email" width="40" />
+  </a>
+</div>
+
+---
+
+¡Gracias por visitar mi perfil! 🌟  
+No dudes en explorar mis repositorios y dejar tu feedback.  
+¡Estoy siempre abierto a aprender y colaborar! 💻✨
