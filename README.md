@@ -3,7 +3,7 @@
 <h2 align="center">  
   <a href="https://jairo51067.github.io/portafolio-JC/" target="_blank">
     <img src="https://img.shields.io/badge/Mi%20Portafolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio" />
-    <img src="[https://img.shields.io/badge/Mi%20Portafolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white](https://www.trecebits.com/wp-content/uploads/2020/04/GIF-animados-.jpg.webp)" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/Mi%20Portafolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white](https://www.trecebits.com/wp-content/uploads/2020/04/GIF-animados-.jpg.webp" alt="Portafolio" />
   </a>
 </h2>
 
