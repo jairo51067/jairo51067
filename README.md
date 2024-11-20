@@ -19,11 +19,15 @@ Me inspiran los equipos colaborativos, y encuentro motivación en resolver probl
 En mi tiempo libre, me dedico a explorar la electrónica, ejercitarme, leer y, por supuesto, ¡seguir aprendiendo! 🚀
 
 ### 🔑 Habilidades destacadas:
-- **Desarrollo Frontend:** React.js, HTML, CSS, JavaScript.
-- **Herramientas:** Git, Figma, Visual Studio Code.
-- **Metodologías:** Diseño responsive, UX/UI básico, optimización de interfaces.
+- **Desarrollo Frontend:** React.js, Angular, Vue.js, HTML, CSS, JavaScript.
+- **Herramientas:** Git, npm, webpack, Figma, Adobe XD.
+- **Metodologías:** Diseño responsive, UX/UI básico, optimización de interfaces, Agile, Scrum, Design Thinking
 
 📍 Actualmente, busco colaborar en proyectos desafiantes que me permitan seguir creciendo como desarrollador y aportar valor a los equipos.
+
+### Proyectos destacados
+- **MiPortafolio:** Un portafolio personal creado con HTML, CSS, JAVASCRIPT, donde muestro mis habilidades y proyectos.
+- **Aplicación Generador de Contraseñas Seguras:** Una aplicación web. El Generador de Contraseñas Fuertes es una herramienta interactiva diseñada para crear contraseñas únicas, seguras y resistentes a ataques. Permite a los usuarios generar contraseñas aleatorias al instante y copiarlas fácilmente al portapapeles. Este proyecto se desarrolló con el propósito de mejorar la seguridad en línea, proporcionando una solución sencilla pero eficaz.
 
 ---
 
@@ -40,3 +44,11 @@ Si quieres conversar sobre desarrollo, tecnología o colaborar en proyectos, no 
 ¡Gracias por visitar mi perfil! 🌟  
 No dudes en explorar mis repositorios y dejar tu feedback.  
 ¡Estoy siempre abierto a aprender y colaborar! 💻✨
+
+**¡Contrátame!** Estoy buscando nuevas oportunidades para trabajar en proyectos desafiantes y colaborar con equipos talentosos.
+
+<div align="center">
+  <a href="mailto:jairocardenas05@gmail.com">
+    <img src="https://img.shields.io/badge/Contáctame-brightgreen" alt="Contrátame">
+  </a>
+</div>
