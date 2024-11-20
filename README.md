@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://github.com/jairo51067/jairo51067/assets/109292981/091d63c4-eeda-4168-942d-c92dea831d61" alt="Presentación" width="100%" height="auto"/>
-    <img src="https://github.com/user-attachments/assets/1fb3269f-3758-4158-9ea2-734d554aa82b" alt="Portafolio" width="100%" height="auto"/>
+<!--   <img src="https://github.com/user-attachments/assets/1fb3269f-3758-4158-9ea2-734d554aa82b" alt="Portafolio" width="100%" height="auto"/> -->
 </div>
 
 ---
