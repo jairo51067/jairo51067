@@ -27,30 +27,13 @@ En mi tiempo libre, me dedico a explorar la electrónica, ejercitarme, leer y, p
 
 ---
 
-## 📊 Estadísticas
-
-<details>
-  <summary><h3>📈 Ver mi actividad en GitHub</h3></summary>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jairo51067&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" style="width: 90%;"/>
-  </p>
-</details>
-
----
-
 ## 📬 ¡Conéctate conmigo!
 
 Si quieres conversar sobre desarrollo, tecnología o colaborar en proyectos, no dudes en contactarme:
 
-- 📧 Email: [jairocardenas05@gmail.com](mailto:jairocardenas05@gmail.com)  
+- 📧 Email: [jairocardenas05@gmail.com](mailto:jairo.cardenas.dev@gmail.com)  
 - 🌐 Portafolio: [jairo51067.github.io/portafolio-JC](https://jairo51067.github.io/portafolio-JC/)  
 - 💼 LinkedIn: *(agrega el enlace si tienes uno)*
-
-<div align="center">
-  <a href="mailto:jairocardenas05@gmail.com" target="_blank">
-    <img src="https://github.com/jairo51067/jairo51067/assets/109292981/30a8f1c6-efc4-48b2-85cf-f4bc57f93ba6" alt="Email" width="40" />
-  </a>
-</div>
 
 ---
 
