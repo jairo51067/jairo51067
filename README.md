@@ -45,7 +45,6 @@ Si quieres conversar sobre desarrollo, tecnología o colaborar en proyectos, no 
 No dudes en explorar mis repositorios y dejar tu feedback.  
 ¡Estoy siempre abierto a aprender y colaborar! 💻✨
 
-**¡Contrátame!** Estoy buscando nuevas oportunidades para trabajar en proyectos desafiantes y colaborar con equipos talentosos.
 
 <div align="center">
   <a href="mailto:jairocardenas05@gmail.com">
