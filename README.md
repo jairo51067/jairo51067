@@ -22,13 +22,14 @@ En mi tiempo libre, me dedico a explorar la electrónica, ejercitarme, leer y, p
 ### 🔑 Habilidades destacadas:
 - **Desarrollo Frontend:** React.js, Angular, Vue.js, HTML, CSS, JavaScript.
 - **Herramientas:** Git, npm, webpack, Figma, Adobe XD.
-- **Metodologías:** Diseño responsive, UX/UI básico, optimización de interfaces, Agile, Scrum, Design Thinking
-
-📍 Actualmente, busco colaborar en proyectos desafiantes que me permitan seguir creciendo como desarrollador y aportar valor a los equipos.
+- **Metodologías:** Diseño responsive, UX/UI básico, optimización de interfaces, Agile, Scrum.
 
 ### Proyectos destacados
 - **MiPortafolio:** Un portafolio personal creado con HTML, CSS, JAVASCRIPT, donde muestro mis habilidades y proyectos.
+  
 - **Aplicación Generador de Contraseñas Seguras:** Una aplicación web. El Generador de Contraseñas Fuertes es una herramienta interactiva diseñada para crear contraseñas únicas, seguras y resistentes a ataques. Permite a los usuarios generar contraseñas aleatorias al instante y copiarlas fácilmente al portapapeles. Este proyecto se desarrolló con el propósito de mejorar la seguridad en línea, proporcionando una solución sencilla pero eficaz.
+  
+- **Conversor de Moneda** Este proyecto, Conversor de Moneda, es una aplicación web interactiva diseñada para convertir monedas en tiempo real utilizando tasas oficiales actualizadas a través de una API externa. Desafíos superados incluyen la integración de datos externos con el manejo de errores para garantizar una experiencia de usuario confiable, y la implementación de un diseño adaptable con tema oscuro/claro. El proyecto demuestra un entendimiento sólido del desarrollo web frontend y está enfocado en resolver un problema cotidiano con una solución funcional y estéticamente atractiva.
 
 ---
 
