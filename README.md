@@ -4,7 +4,9 @@
   <a href="https://jairo51067.github.io/portafolio-JC/" target="_blank">
 <!--     <img src="https://img.shields.io/badge/Mi%20Portafolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio" /> -->
 <!--     https://img.shields.io/badge/just%20the%20message-8A2BE2 -->
-    <img src="https://img.shields.io/badge/Mi%20Portafolio-8A2BE2" alt="Portafolio" />
+<!--     <img src="https://img.shields.io/badge/Mi%20Portafolio-8A2BE2" alt="Portafolio" /> -->
+    <img src="https://img.shields.io/badge/%27MI%20PORTAFOLIO%27%20style-543DE0?style=for-the-badge alt="Portafolio"/>
+    
     
   </a>
 </h2>
