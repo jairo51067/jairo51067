@@ -32,8 +32,12 @@ En mi tiempo libre, me dedico a explorar la electrónica, ejercitarme, leer y, p
   </a>
 </h2>
   
-- **Aplicación Generador de Contraseñas Seguras:** Una aplicación web. El Generador de Contraseñas Fuertes es una herramienta interactiva diseñada para crear contraseñas únicas, seguras y resistentes a ataques. Permite a los usuarios generar contraseñas aleatorias al instante y copiarlas fácilmente al portapapeles. Este proyecto se desarrolló con el propósito de mejorar la seguridad en línea, proporcionando una solución sencilla pero eficaz. - 
-[Ver el proyecto en acción aquí](https://jairo51067.github.io/Generador-de-Contrasenas-Seguras/) 
+- **Aplicación Generador de Contraseñas Seguras:** Una aplicación web. El Generador de Contraseñas Fuertes es una herramienta interactiva diseñada para crear contraseñas únicas, seguras y resistentes a ataques. Permite a los usuarios generar contraseñas aleatorias al instante y copiarlas fácilmente al portapapeles. Este proyecto se desarrolló con el propósito de mejorar la seguridad en línea, proporcionando una solución sencilla pero eficaz. -
+<h2 align="start">  
+  <a href="[https://jairo51067.github.io/portafolio-JC/](https://jairo51067.github.io/Generador-de-Contrasenas-Seguras/)" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20el proyecto en acción aquí-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio" />
+  </a>
+</h2>
   
 - **Conversor de Moneda** Este proyecto, Conversor de Moneda, es una aplicación web interactiva diseñada para convertir monedas en tiempo real utilizando tasas oficiales actualizadas a través de una API externa. Desafíos superados incluyen la integración de datos externos con el manejo de errores para garantizar una experiencia de usuario confiable, y la implementación de un diseño adaptable con tema oscuro/claro. El proyecto demuestra un entendimiento sólido del desarrollo web frontend y está enfocado en resolver un problema cotidiano con una solución funcional y estéticamente atractiva. - 
 [Ver el proyecto en acción aquí](https://conversor-de-monedas-del-mundo.vercel.app/ )  
