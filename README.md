@@ -25,8 +25,8 @@ En mi tiempo libre, me dedico a explorar la electrónica, ejercitarme, leer y, p
 - **Metodologías:** Diseño responsive, UX/UI básico, optimización de interfaces, Agile, Scrum.
 
 ### Proyectos destacados
-- **MiPortafolio:** Un portafolio personal creado con HTML, CSS, JAVASCRIPT, donde muestro mis habilidades y proyectos.
-- <h2 align="center">  
+- **MiPortafolio:** Un portafolio personal creado con HTML, CSS, JAVASCRIPT, donde muestro mis habilidades y proyectos. - 
+<h2 align="start">  
   <a href="https://jairo51067.github.io/portafolio-JC/" target="_blank">
     <img src="https://img.shields.io/badge/Mi%20Portafolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio" />
   </a>
