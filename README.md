@@ -45,7 +45,6 @@ En mi tiempo libre, me dedico a explorar la electrónica, ejercitarme, leer y, p
     <img src="https://img.shields.io/badge/Ver%20el proyecto en acción aquí-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Aplicación Conversor de Monedas" />
   </a>
 </h2>
-[Ver el proyecto en acción aquí](https://conversor-de-monedas-del-mundo.vercel.app/ )  
 
 ---
 
