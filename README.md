@@ -53,7 +53,7 @@ Si quieres conversar sobre desarrollo, tecnología o colaborar en proyectos, no 
 
 - 📧 Email: [jairocardenas05@gmail.com](mailto:jairocardenas05@gmail.com)  
 - 🌐 Portafolio: [jairo51067.github.io/portafolio-JC](https://jairo51067.github.io/portafolio-JC/)  
-- 💼 LinkedIn: *(agrega el enlace si tienes uno)*
+- 💼 LinkedIn: [jairo.cárdenas.dev](https://www.linkedin.com/in/jairo-antonio-c%C3%A1rdenas-morales-49b94b25)
 
 ---
 
