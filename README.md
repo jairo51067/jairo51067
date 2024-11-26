@@ -46,7 +46,7 @@ En mi tiempo libre, me dedico a explorar la electrónica, ejercitarme, leer y, p
 </h2>
 
 ---
-`<h3 align="center">A passionate frontend developer from India</h3>`
+
 ### 💻 Tech Stack:
 
 <h3 align="left">Languages and Tools:</h3>
