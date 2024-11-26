@@ -25,7 +25,7 @@ En mi tiempo libre, me dedico a explorar la electrónica, ejercitarme, leer y, p
 
 ### ★ Proyectos destacados
 - **MiPortafolio:** Un portafolio personal creado con HTML, CSS, JAVASCRIPT, donde muestro mis habilidades y proyectos. - 
-<h2 align="start">  
+<h2 align="start"> ⚡  
   <a href="https://jairo51067.github.io/portafolio-JC/" target="_blank">
     <img src="https://img.shields.io/badge/Mi%20Portafolio-543DE0?style=for-the-badge" alt="Portafolio" />
   </a>
