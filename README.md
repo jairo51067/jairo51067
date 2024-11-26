@@ -23,7 +23,7 @@ En mi tiempo libre, me dedico a explorar la electrónica, ejercitarme, leer y, p
 - **Herramientas:** Git, npm, webpack, Figma, Adobe XD.
 - **Metodologías:** Diseño responsive, UX/UI básico, optimización de interfaces, Agile, Scrum.
 
-### Proyectos destacados
+### ★ Proyectos destacados
 - **MiPortafolio:** Un portafolio personal creado con HTML, CSS, JAVASCRIPT, donde muestro mis habilidades y proyectos. - 
 <h2 align="start">  
   <a href="https://jairo51067.github.io/portafolio-JC/" target="_blank">
