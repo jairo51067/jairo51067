@@ -19,7 +19,7 @@ Me inspiran los equipos colaborativos, y encuentro motivación en resolver probl
 En mi tiempo libre, me dedico a explorar la electrónica, ejercitarme, leer y, por supuesto, ¡seguir aprendiendo! 🚀
 
 ### 🔑 Habilidades destacadas:
-- **Desarrollo Frontend:** React.js, Angular, Vue.js, HTML, CSS, JavaScript.
+- **Desarrollo Frontend:** PHP, SQL MySQL, React.js, Angular, Vue.js, HTML, CSS, JavaScript.
 - **Herramientas:** Git, npm, webpack, Figma, Adobe XD.
 - **Metodologías:** Diseño responsive, UX/UI básico, optimización de interfaces, Agile, Scrum.
 
@@ -31,7 +31,7 @@ En mi tiempo libre, me dedico a explorar la electrónica, ejercitarme, leer y, p
   </a>
 </h2>
 
-- **"El presente proyecto tiene como objetivo desarrollar un si-tio web intuitivo y dinámico para un Colegio, facilitando la interacción entre la institución educativa, los padres y los estudiantes. A través de esta plataforma, se busca optimizar los procesos de inscripción, gestión de información y comuni-cación.  Para su desarrollo, se ha utilizado una arquitectura basada en las siguientes; "La base de datos del sitio está estructurada en tres tablas principales: usuarios, alumnos y mensajes. Estas tablas se relacionan entre sí para almacenar información sobre los usuarios registrados, los estudiantes y los pagos realizados y los mensajes recibidos. La lógica de inicio de sesión se basa en la verificación de creden-ciales almacenadas en la base de datos. Para garantizar la seguridad, se utilizan contraseñas encriptadas. La interfaz de usuario se ha desarrollado utilizando HTML, CSS y JavaScript, con el framework Bootstrap para faci-litar el diseño responsive."-
+- **"El presente proyecto tiene como objetivo desarrollar un sitio web intuitivo y dinámico para un Colegio, facilitando la interacción entre la institución educativa, los padres y los estudiantes. A través de esta plataforma, se busca optimizar los procesos de inscripción, gestión de información y comunicación.  Para su desarrollo, se ha utilizado una arquitectura basada en las siguientes; "La base de datos del sitio está estructurada en MYSQL y en tres tablas principales: usuarios, alumnos y mensajes. Estas tablas se relacionan entre sí para almacenar información sobre los usuarios registrados, los estudiantes y los pagos realizados y los mensajes recibidos. Toda la lógica es manejada con PHP desde el inicio de sesión que se basa en la verificación de credenciales almacenadas en la base de datos. Para garantizar la seguridad, se utilizan contraseñas encriptadas. La interfaz de usuario se ha desarrollado utilizando HTML, CSS y JavaScript, con el framework Bootstrap para facilitar el diseño responsive."-
 <h2 align="start"> ⚡
   <a href="https://www.colegio-cei.free.nf/pages/presentacion/presentacion.php" target="_blank">
       <img src="https://img.shields.io/badge/Ver%20el proyecto en acción aquí-543DE0?style=for-the-badge" alt="Sito Web Calegio CEI" />
