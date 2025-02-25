@@ -43,8 +43,12 @@ Me considero un **aprendiz constante** que disfruta trabajar en equipos colabora
     - Metodologías Agile y Scrum para gestión de proyectos.
 
 
+
+
 >[!IMPORTANT]
+>
 >### ★ Proyectos destacados ★
+>
 - **MiPortafolio:** Un portafolio personal creado con HTML, CSS, JAVASCRIPT, donde muestro mis habilidades y proyectos. - 
 <h2 align="start"> ⚡  
   <a href="https://jairo51067.github.io/portafolio-JC/" target="_blank">
@@ -73,8 +77,13 @@ Me considero un **aprendiz constante** que disfruta trabajar en equipos colabora
   </a>
 </h2>
 
+
+
+
 >[!NOTE]
+>
 >### 💻 Tech Stack:
+>
 - **Desarrollo Web:**
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -115,14 +124,22 @@ Me considero un **aprendiz constante** que disfruta trabajar en equipos colabora
     ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
     ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+
+
+
 >[!TIP]
+>
 >### 📊 GitHub Stats:
+>
 ![](https://github-readme-stats.vercel.app/api?username=jairo51067&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jairo51067&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jairo51067&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=jairo51067&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairo51067&label=Profile%20views&color=0e75b6&style=flat" alt="jairo51067" /> </p>
+
+
+
 ---
 ## 📬 ¡Conéctate conmigo!
 Si quieres conversar sobre desarrollo, tecnología o colaborar en proyectos, no dudes en contactarme:
@@ -131,8 +148,9 @@ Si quieres conversar sobre desarrollo, tecnología o colaborar en proyectos, no 
 - 🌐 Portafolio: [jairo51067.github.io/portafolio-JC](https://jairo51067.github.io/portafolio-JC/)  
 - 💼 LinkedIn: [jairo.cárdenas.dev](https://www.linkedin.com/in/jairo-antonio-c%C3%A1rdenas-morales-49b94b25)
 
----
 
+
+---
 ¡Gracias por visitar mi perfil! 🌟  
 No dudes en explorar mis repositorios y dejar tu feedback.  
 ¡Estoy siempre abierto a aprender y colaborar! 💻✨
