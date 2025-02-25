@@ -50,28 +50,32 @@ Me considero un **aprendiz constante** que disfruta trabajar en equipos colabora
 >### ★ Proyectos destacados ★
 >
 
-**MiPortafolio: **  Un portafolio personal creado con HTML, CSS, JAVASCRIPT, donde muestro mis habilidades y proyectos. - 
+### **MiPortafolio:**  
+Un portafolio personal creado con HTML, CSS, JAVASCRIPT, donde muestro mis habilidades y proyectos. - 
 <h2 align="start"> ⚡  
   <a href="https://jairo51067.github.io/portafolio-JC/" target="_blank">
     <img src="https://img.shields.io/badge/Mi%20Portafolio-543DE0?style=for-the-badge" alt="Portafolio" />
   </a>
 </h2>
 
-**Pagina Colegio-CEI: **  El presente proyecto tiene como objetivo desarrollar un sitio web intuitivo y dinámico para un Colegio, facilitando la interacción entre la institución educativa, los padres y los estudiantes. A través de esta plataforma, se busca optimizar los procesos de inscripción, gestión de información y comunicación.  Para su desarrollo, se ha utilizado una arquitectura basada en las siguientes; "La base de datos del sitio está estructurada en MYSQL y en tres tablas principales: usuarios, alumnos y mensajes. Estas tablas se relacionan entre sí para almacenar información sobre los usuarios registrados, los estudiantes y los pagos realizados y los mensajes recibidos. Toda la lógica es manejada con PHP desde el inicio de sesión que se basa en la verificación de credenciales almacenadas en la base de datos. Para garantizar la seguridad, se utilizan contraseñas encriptadas. La interfaz de usuario se ha desarrollado utilizando HTML, CSS y JavaScript, con el framework Bootstrap para facilitar el diseño responsive.-
+### **Pagina Colegio-CEI:**  
+El presente proyecto tiene como objetivo desarrollar un sitio web intuitivo y dinámico para un Colegio, facilitando la interacción entre la institución educativa, los padres y los estudiantes. A través de esta plataforma, se busca optimizar los procesos de inscripción, gestión de información y comunicación.  Para su desarrollo, se ha utilizado una arquitectura basada en las siguientes; "La base de datos del sitio está estructurada en MYSQL y en tres tablas principales: usuarios, alumnos y mensajes. Estas tablas se relacionan entre sí para almacenar información sobre los usuarios registrados, los estudiantes y los pagos realizados y los mensajes recibidos. Toda la lógica es manejada con PHP desde el inicio de sesión que se basa en la verificación de credenciales almacenadas en la base de datos. Para garantizar la seguridad, se utilizan contraseñas encriptadas. La interfaz de usuario se ha desarrollado utilizando HTML, CSS y JavaScript, con el framework Bootstrap para facilitar el diseño responsive.-
 <h2 align="start"> ⚡
   <a href="https://www.colegio-cei.free.nf/pages/presentacion/presentacion.php" target="_blank">
       <img src="https://img.shields.io/badge/Ver%20el proyecto en acción aquí-543DE0?style=for-the-badge" alt="Sito Web Calegio CEI" />
   </a>
 </h2>
 
-**Aplicación Generador de Contraseñas Seguras: **  Una aplicación web. El Generador de Contraseñas Fuertes es una herramienta interactiva diseñada para crear contraseñas únicas, seguras y resistentes a ataques. Permite a los usuarios generar contraseñas aleatorias al instante y copiarlas fácilmente al portapapeles. Este proyecto se desarrolló con el propósito de mejorar la seguridad en línea, proporcionando una solución sencilla pero eficaz. -
+### **Aplicación Generador de Contraseñas Seguras:**  
+Una aplicación web. El Generador de Contraseñas Fuertes es una herramienta interactiva diseñada para crear contraseñas únicas, seguras y resistentes a ataques. Permite a los usuarios generar contraseñas aleatorias al instante y copiarlas fácilmente al portapapeles. Este proyecto se desarrolló con el propósito de mejorar la seguridad en línea, proporcionando una solución sencilla pero eficaz. -
 <h2 align="start"> ⚡
   <a href="https://jairo51067.github.io/Generador-de-Contrasenas-Seguras/" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20el proyecto en acción aquí-543DE0?style=for-the-badge" alt="Aplicación Generador de Contraseñas Seguras" />
   </a>
 </h2>
 
-**Conversor de Moneda: **  Este proyecto, Conversor de Moneda, es una aplicación web interactiva diseñada para convertir monedas en tiempo real utilizando tasas oficiales actualizadas a través de una API externa. Desafíos superados incluyen la integración de datos externos con el manejo de errores para garantizar una experiencia de usuario confiable, y la implementación de un diseño adaptable con tema oscuro/claro. El proyecto demuestra un entendimiento sólido del desarrollo web frontend y está enfocado en resolver un problema cotidiano con una solución funcional y estéticamente atractiva. -
+### **Conversor de Moneda:**  
+Este proyecto, Conversor de Moneda, es una aplicación web interactiva diseñada para convertir monedas en tiempo real utilizando tasas oficiales actualizadas a través de una API externa. Desafíos superados incluyen la integración de datos externos con el manejo de errores para garantizar una experiencia de usuario confiable, y la implementación de un diseño adaptable con tema oscuro/claro. El proyecto demuestra un entendimiento sólido del desarrollo web frontend y está enfocado en resolver un problema cotidiano con una solución funcional y estéticamente atractiva. -
 <h2 align="start"> ⚡
   <a href="https://conversor-de-monedas-del-mundo.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20el proyecto en acción aquí-543DE0?style=for-the-badge" alt="Aplicación Conversor de Monedas" />
