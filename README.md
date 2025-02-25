@@ -44,7 +44,9 @@ Me considero un **aprendiz constante** que disfruta trabajar en equipos colabora
     - Optimización de interfaces para rendimiento y eficiencia.
     - Metodologías Agile y Scrum para gestión de proyectos.
 
-### ★ Proyectos destacados
+>[!NOTE]
+>### ★ Proyectos destacados ★
+### ★ Proyectos destacados ★
 - **MiPortafolio:** Un portafolio personal creado con HTML, CSS, JAVASCRIPT, donde muestro mis habilidades y proyectos. - 
 <h2 align="start"> ⚡  
   <a href="https://jairo51067.github.io/portafolio-JC/" target="_blank">
