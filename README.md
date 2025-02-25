@@ -10,8 +10,6 @@
   <img src="https://github.com/jairo51067/jairo51067/assets/109292981/091d63c4-eeda-4168-942d-c92dea831d61" alt="Presentación" width="100%" height="auto"/>
 </div>
 
----
-
 ## ✨ Sobre mí
 
 Soy Jairo Cárdenas, un **desarrollador Full Stack** apasionado por la creación de soluciones tecnológicas innovadoras. Mi enfoque principal es el desarrollo de aplicaciones web utilizando tecnologías como HTML, CSS, JavaScript, PHP, MySQL, Python, MERN y MEAN.
@@ -44,9 +42,9 @@ Me considero un **aprendiz constante** que disfruta trabajar en equipos colabora
     - Optimización de interfaces para rendimiento y eficiencia.
     - Metodologías Agile y Scrum para gestión de proyectos.
 
+
 >[!IMPORTANT]
 >### ★ Proyectos destacados ★
-
 - **MiPortafolio:** Un portafolio personal creado con HTML, CSS, JAVASCRIPT, donde muestro mis habilidades y proyectos. - 
 <h2 align="start"> ⚡  
   <a href="https://jairo51067.github.io/portafolio-JC/" target="_blank">
@@ -77,7 +75,6 @@ Me considero un **aprendiz constante** que disfruta trabajar en equipos colabora
 
 >[!NOTE]
 >### 💻 Tech Stack:
-
 - **Desarrollo Web:**
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -118,20 +115,16 @@ Me considero un **aprendiz constante** que disfruta trabajar en equipos colabora
     ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
     ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-
----
-### 📊 GitHub Stats:
+>[!TIP]
+>### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jairo51067&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jairo51067&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jairo51067&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=jairo51067&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairo51067&label=Profile%20views&color=0e75b6&style=flat" alt="jairo51067" /> </p>
-
 ---
 ## 📬 ¡Conéctate conmigo!
-
 Si quieres conversar sobre desarrollo, tecnología o colaborar en proyectos, no dudes en contactarme:
 
 - 📧 Email: [jairocardenas05@gmail.com](mailto:jairocardenas05@gmail.com)  
