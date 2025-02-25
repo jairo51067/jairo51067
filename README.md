@@ -22,7 +22,8 @@ Me considero un **aprendiz constante** que disfruta trabajar en equipos colabora
 
 ¡Me entusiasma la idea de conectar contigo y explorar cómo puedo contribuir a tus proyectos!
 
-###  Habilidades destacadas:
+### ![image](https://github.com/user-attachments/assets/e2dd6373-1837-4f15-83d5-ee3b354b0280)
+ Habilidades destacadas:
 
 - **Desarrollo Full Stack:**
     - Dominio de tecnologías web: HTML, CSS, JavaScript, PHP, MySQL, Python.
