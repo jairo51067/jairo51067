@@ -14,9 +14,15 @@
 
 ## ✨ Sobre mí
 
-¡Hola! Soy **Jairo Cárdenas**, un desarrollador **frontend apasionado por la tecnología y el aprendizaje continuo**. Transformo ideas creativas en proyectos impactantes.  
-Me inspiran los equipos colaborativos, y encuentro motivación en resolver problemas y superar desafíos.  
-En mi tiempo libre, me dedico a explorar la electrónica, ejercitarme, leer y, por supuesto, ¡seguir aprendiendo! 🚀
+Soy Jairo Cárdenas, un **desarrollador Full Stack** apasionado por la creación de soluciones tecnológicas innovadoras. Mi enfoque principal es el desarrollo de aplicaciones web utilizando tecnologías como HTML, CSS, JavaScript, PHP, MySQL, Python, MERN y MEAN.
+
+Cuento con experiencia en el desarrollo de aplicaciones utilizando AppSheet y Google Sheets, lo que me permite crear soluciones personalizadas y eficientes para diferentes necesidades.
+
+Además de mi pasión por el desarrollo web, tengo conocimientos en electrónica, electricidad y tecnología de alimentos, áreas que me permiten tener una visión más amplia y creativa al momento de abordar proyectos.
+
+Me considero un **aprendiz constante** que disfruta trabajar en equipos colaborativos y enfrentar desafíos. En mi tiempo libre, exploro nuevas tecnologías, me mantengo activo practicando deportes, disfruto de la lectura y sigo ampliando mis conocimientos en diversas áreas.
+
+¡Me entusiasma la idea de conectar contigo y explorar cómo puedo contribuir a tus proyectos!
 
 ###  Habilidades destacadas:
 
