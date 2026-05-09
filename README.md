@@ -79,7 +79,7 @@ Git · GitHub · Figma · VS Code
 ## 📬 Contact
 
 - Email: jairocardenas05@gmail.com  
-- Portfolio: https://github.com/jairo51067/jairo-cardenas-dev-portfolio
+- Portfolio: #
 - LinkedIn: https://www.linkedin.com/in/jairocardenasdev
 
 ---
