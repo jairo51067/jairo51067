@@ -13,7 +13,7 @@ I build modern, fast and user-centered web applications with clean architecture 
 ## 🚀 Portfolio
 
 <p align="center">
-  <a href="https://github.com/jairo51067/jairo-cardenas-dev-portfolio" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-0071e3?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
